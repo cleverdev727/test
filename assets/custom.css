@@ -1,0 +1,8 @@
+body > section.u-section-1 > img.u-image-1 {
+  height: calc(100vh - 112px);
+  /* height: 100% !important; */
+}
+
+.u-xl-mode .u-sheet {
+  padding: 0 100px 0 100px;
+}
